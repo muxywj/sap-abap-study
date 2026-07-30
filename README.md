@@ -6,4 +6,4 @@
 |---|---|---|
 | W7 | ABAP 기초 문법 | (예정) |
 
-- 학습 블로그: (Velog 주소를 STEP 0-4 후에 추가)
+- 학습 블로그: [https://velog.io/@woonjin110/posts]
